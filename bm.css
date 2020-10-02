@@ -1,0 +1,116 @@
+#he {
+    color: wheat;
+    font-size: 25px;
+}
+.bye {
+  color: white;
+  padding-left: 0px
+}
+#flex-box-result {
+    color: whitesmoke;
+}
+#flex-box-resultt {
+    color: yellow;
+}
+#b {
+    color: blue;
+    font-size: 15px;
+}
+#vv{
+    font-size: 16px;
+    color: white;
+}
+#h {
+    font-size: 15px;
+    color: blue;
+}
+#j {
+    font-size: 15px;
+    color: white;
+}
+#zx {
+    font-size: 17px;
+    color: blue;
+}
+#r {
+    color: cornsilk;
+    font-size: 15px
+}
+.help {
+    color: green;
+    font-size: 15px;
+}
+.now {
+    background-color: blue;
+}
+#a {
+    font-size: 25px;
+    color: red;
+}
+#age {
+    color: white;
+}
+.c {
+    border: 2px solid black;
+    padding: 0%;
+
+}
+.container-1{
+    border: 2px solid rgb(255, 255, 255);
+    padding: px;
+    
+}
+.q {
+    background-color: black  ;
+}
+.l {
+   color: white;
+    display: inline-block;
+    background-color: blue;
+    transition-duration: 4s;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.a {
+    padding-left: 10px
+    font-size: 15px;
+    color: white;
+}
+#lol {
+    font-size: 10px
+    color: red
+    }
+.image {
+    display: inline-flex;
+}
+.l :hover{
+ background-color: red;
+ color: white;
+ border-radius: 9px;
+}
+.m {
+    color: white;
+    background-color: red;
+    transition-duration: 4s;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.m :hover{
+    color: whitesmoke;
+}
+
+.flex-box-container {
+display: flex;
+ border: 2px solid rgb(255, 255, 255);
+ flex: content;
+ padding: 10px;
+ justify-content: space-around;
+}
+.flex-box-container div {
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+.f-b {
+  border: 2px solid black;
+}
